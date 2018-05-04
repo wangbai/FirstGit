@@ -1,7 +1,7 @@
 FirstGit
 ========
 
-First Github repository, and Only for testing git
+First github repository, and only for testing
 
 author : wangbai
 email  : wangbai1981@gmail.com
